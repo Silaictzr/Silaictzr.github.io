@@ -1,0 +1,145 @@
+
+
+
+div.list {
+    font-style: oblique;
+    font-size:50px;
+    text-decoration-line: underline;
+    color: whitesmoke;
+    
+
+}
+
+div.dizi {
+    font-style: inherit;
+    font-size: 35px;
+    color: darkred;
+}
+
+div.film {
+    font-style: inherit;
+    font-size: 35px;
+    color:darkred;
+}
+
+ 
+
+
+.hero{
+    width: 100%;
+    height: 100vh;
+    background-image: linear-gradient(#000000,#8b0000);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.selector{ 
+    width: 350px;
+
+}
+
+#türler{
+    width: 100%;
+    padding:15px 20px ;
+    margin-bottom: 30px ;
+    box-sizing: border-box;
+    background: white;
+    border-radius: 6px;
+    display: flex;
+    align-items: center;
+    justify-content:space-between;
+    cursor: pointer;
+
+
+
+}
+
+#list{
+    width:100%;
+    background: white;
+    border-radius: 6px;
+    overflow: hidden;
+
+
+}
+
+.options{
+    width: 100%;
+    padding: 15px 0 15px 70px;
+    list-style: none;
+    cursor: pointer;
+    box-sizing: border-box;
+    position: relative;
+    transition: background .3s ease;
+
+}
+
+.options:hover{
+    background: brown;
+}
+
+.hide{
+    visibility: hidden;
+}
+
+
+
+
+
+#red {
+    font-style: inherit;
+    font-size: 30px;
+    color:darkred;
+}
+
+#strange {
+    font-style:inherit ;
+    font-size: 30px;
+    color: darkred;
+}
+
+div.yeni{
+    font-style: oblique;
+    font-size:50px;
+    text-decoration-line: underline;
+    color: whitesmoke;
+    
+}
+
+div.git{
+      
+    color: whitesmoke;
+    
+}
+
+#iframe{
+    background-color: #000000;
+}
+
+#iframee{
+    background-color: #000000;
+}
+#iframeee{
+    background-color: #000000;
+}
+#iframeeee{
+    background-color: #000000;
+}
+
+#son{
+    color: #8b0000;
+    background-color: #000000;
+    font-size: 15px;
+
+}
+#hazırlayan{
+    color: #000000;
+    font-size: 10px;
+    font-style: italic;
+}
+#isim{
+    color: #000000;
+    font-size: 10px;
+    font-style: italic;
+}
